@@ -1,2 +1,2 @@
 # dragon-fight
-Dragon Fight game repo
+repo for Dragon Fight Game I created in grade 12
